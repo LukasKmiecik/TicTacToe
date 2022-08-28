@@ -1,0 +1,86 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+.bodd {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.side {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    min-width:100px;
+    width: 33.3%;
+    margin-top: 25px;
+}
+.centrum {
+    display: flex;
+    margin-top: 25px;
+    z-index: 100;
+}
+.plansza {
+    display: grid;
+    //grid-template-columns: repeat(3, 50px);
+    //grid-template-rows: repeat(3, 50px);
+    margin: auto;
+}
+.bu {
+    display: flex;
+    width: 49px;
+    height: 49px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.info {
+    text-transform: capitalize;
+}
+.new {
+    cursor: pointer;
+    margin: 15px;
+
+    &:hover {
+        color: rgb(116, 112, 112);
+    }
+}
+.points {
+    display: flex;
+    flex-direction: row;
+    box-shadow: black 0px 6px 15px -12px;
+    text-transform: capitalize;
+}
+.pox,
+.poo {
+    margin: 5px;
+}
+.ox {
+    display: none;
+}
+.konta {
+    width: 50px;
+    height: 50px;
+    border:  1px solid black;
+} 
+.bo {
+    margin: 15px;
+}
+
+a{
+    color: #c5c5c5;
+    text-decoration: none;
+}
+
+
+//////////////////////////
+
