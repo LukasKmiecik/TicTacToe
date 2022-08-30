@@ -16,7 +16,7 @@ This files open yours web browser.<br>
 Or
 
 ## Demo
-click to [link](https://lukaskmiecik.github.io/TicTacToe/) to open webside
+Click to [link](https://lukaskmiecik.github.io/TicTacToe/) to open webside
 
 ## Autor
 [@LukasKmiecik](https://github.com/LukasKmiecik)
@@ -28,5 +28,3 @@ If you have any feedback, please reach out to us at kmieciklu@gmail.com
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
