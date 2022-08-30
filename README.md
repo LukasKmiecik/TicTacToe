@@ -13,11 +13,20 @@ Clone repo or click to [link](https://lukaskmiecik.github.io/TicTacToe/) to open
 ## Usage 
 After you clone this repo to your desktop, go to its root directory and run `index.html`.
 This files open yours web browser.<br>
-Or<br>
+Or
+
+## Demo
 click to [link](https://lukaskmiecik.github.io/TicTacToe/) to open webside
 
 ## Autor
-Kmiecik Łukasz
+[@LukasKmiecik](https://github.com/LukasKmiecik)
+
+## Feedback
+
+If you have any feedback, please reach out to us at kmieciklu@gmail.com
 
 ## License
-Open source license.
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
