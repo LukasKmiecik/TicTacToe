@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.bodd {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.side {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+  min-width: 100px;
+  width: 33.3%;
+  margin-top: 25px;
+}
+
+.centrum {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 25px;
+  z-index: 100;
+}
+
+.plansza {
+  display: -ms-grid;
+  display: grid;
+  margin: auto;
+}
+
+.bu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 49px;
+  height: 49px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  cursor: pointer;
+}
+
+.info {
+  text-transform: capitalize;
+}
+
+.new {
+  cursor: pointer;
+  margin: 15px;
+}
+
+.new:hover {
+  color: #747070;
+}
+
+.points {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-shadow: black 0px 6px 15px -12px;
+          box-shadow: black 0px 6px 15px -12px;
+  text-transform: capitalize;
+}
+
+.pox,
+.poo {
+  margin: 5px;
+}
+
+.ox {
+  display: none;
+}
+
+.konta {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+.bo {
+  margin: 15px;
+}
+
+a {
+  color: #c5c5c5;
+  text-decoration: none;
+}
+/*# sourceMappingURL=mine.css.map */
